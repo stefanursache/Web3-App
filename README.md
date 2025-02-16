@@ -32,13 +32,7 @@ See [`features/web3`](src/features/web3) for the `web3-react` setup. Note that `
 ## Contributing
 Feel like you can improve this example? PRs are welcome! Just remember that this is intended as starter code. :)
 
-## Contributors & Acknowledgements
 
-Contributors:
-* [Arseniy Ivanov](https://github.com/freeatnet), 2020
-
-Wouldn't be possible without:
-* [Noah Zinsmeister](https://github.com/NoahZinsmeister), who built web3-react
 
 
 ## License
